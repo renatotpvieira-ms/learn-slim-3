@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "workbench.colorTheme": "Dark+ Material",
+        "workbench.iconTheme": "vscode-great-icons",
+        "editor.formatOnSave": true,
+        "emmet.includeLanguages": {
+            "twig": "html"
+        }
+    }
+}
